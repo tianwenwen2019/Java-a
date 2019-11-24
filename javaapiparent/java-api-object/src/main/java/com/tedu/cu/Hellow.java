@@ -7,6 +7,16 @@ public class Hellow {
         System.out.println("dghjfgsdf");
         System.out.println("*********");
         System.out.println("--------");
+        System.out.println("--------");
+        System.out.println("hjxdkjd");
+        System.out.println("dghjfgsdf");
+        System.out.println("*********");
+        System.out.println("--------");
+        System.out.println("--------");
+        System.out.println("hjxdkjd");
+        System.out.println("dghjfgsdf");
+        System.out.println("*********");
+        System.out.println("--------");
 
     }
 }
