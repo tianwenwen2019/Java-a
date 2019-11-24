@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javaapiparent" />
+        <module name="javaapiobject" />
+        <module name="javaapistring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaapiparent" target="1.5" />
+      <module name="javaapiobject" target="1.8" />
+      <module name="javaapiparent" target="1.8" />
+      <module name="javaapistring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaapiparent/java-api-object/javaapiobject.iml" filepath="$PROJECT_DIR$/javaapiparent/java-api-object/javaapiobject.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaapiparent/javaapiparent.iml" filepath="$PROJECT_DIR$/javaapiparent/javaapiparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaapiparent/java-api-string/javaapistring.iml" filepath="$PROJECT_DIR$/javaapiparent/java-api-string/javaapistring.iml" />
     </modules>
   </component>
 </project>
